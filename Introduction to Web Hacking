@@ -61,4 +61,129 @@
   Task 11 -  Automated Discovery 
             a - /monthly
             b - /development.log
+ 
+ 
+ 3  - Subdomain Enumeration
+
+  Task 1 - Brief   
+           a - Brute Force
+           b - OSINT
+           c - Virtual Host
+           
+  Task 2 - OSINT - SSL/TLS Certificates 
+           store.tryhackme.com
+  
+  Task 3 - OSINT - Search Engines 
+            blog.tryhackme.com
             
+  Task 4 - DNS Bruteforce  
+           api.acmeitsupport.thm
+            
+  Task 5 - DOSINT - Sublist3r 
+           web55.acmeitsupport.thm
+
+  Task 6 - Virtual Hosts  
+           a - delta
+           b - yellow
+           
+4   - Authentication Bypass
+
+  Task 1 - Brief   
+           Read Only
+           
+  Task 2 - Username Enumeration  
+           a - Simon
+           b - Steve
+           c - Robert
+  
+  Task 3 - Brute Force 
+           steve/thunder
+            
+  Task 4 - Logic Flaw   
+           THM{AUTH_BYPASS_COMPLETE}
+            
+  Task 5 - Cookie Tampering  
+           a - THM{COOKIE_TAMPERING}
+           b - 463729
+           c - THM{BASE64_ENCODING}
+           d - eyJpZCI6MSwiYWRtaW4iOnRydWV9
+
+5   - IDOR
+
+  Task 1 - What is an IDOR? 
+           Insecure Direct Object Reference
+           
+  Task 2 - An IDOR Example  
+           THM{IDOR-VULN-FOUND}
+  
+  Task 3 - Finding IDORs in Encoded IDs 
+           base64
+            
+  Task 4 - Finding IDORs in Hashed IDs 
+           md5
+            
+  Task 5 - Finding IDORs in Unpredictable IDs  
+           2
+
+  Task 6 - Where are IDORs located   
+           Read Only
+           
+  Task 7 - Where are IDORs located   
+           a - adam84
+           b - j@fakemail.thm
+           
+    
+6   - File Inclusion
+
+  Task 1 - Introduction 
+           Read Only
+           
+  Task 2 - Deploy the VM 
+           Read Only
+  
+  Task 3 - Path Traversal  
+           file_get_contents
+            
+  Task 4 - Local File Inclusion - LFI  
+           a - /lab1.php?file=/etc/passwd
+           b - includes
+            
+  Task 5 - Local File Inclusion - LFI #2   
+           a - /lab3.php?file=../../../../etc/passwd%00
+           b - file_get_contents
+           c - THM-profile
+           d - 12.04
+
+  Task 6 - Remote File Inclusion - RFI    
+           Read Only
+           
+  Task 7 - Remediation   
+           Read Only
+           
+  Task 8 - Challenge 
+           a - F1x3d-iNpu7-f0rrn
+           b - c00k13_i5_yuMmy1
+           c - P0st_1s_w0rk1in9
+           d - lfi-vm-thm-f8c5b1a78692
+  
+   
+7   - SSRF
+
+  Task 1 - What is an SSRF?  
+           a - Server-Side Request Forgery
+           b - Blind
+           
+  Task 2 - SSRF Examples 
+           THM{SSRF_MASTER}
+  
+  Task 3 - Finding an SSRF  
+           requestbin.com
+            
+  Task 4 - Defeating Common SSRF Defenses 
+           a - Open Redirect
+           b - 169.254.169.254
+           c - Allow List
+           d - Deny List
+            
+  Task 5 - SSRF Practical  
+           THM{YOU_WORKED_OUT_THE_SSRF}
