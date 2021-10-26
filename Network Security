@@ -142,3 +142,43 @@
             
   Task 9 - Summary 
             Read Only
+
+
+
+5  -  Nmap Advanced Port Scans
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - TCP Null Scan, FIN Scan, and Xmas Scan     
+            a - 0
+            b - 1
+            c - 3
+            d - 7
+            e - 7
+  
+  Task 3 - TCP Maimon Scan 
+            2
+           
+  Task 4 - TCP ACK, Window, and Custom Scan   
+            a - 1
+            b - RST
+            c - 4
+            d - 443
+            e - N
+           
+  Task 5 - Spoofing and Decoys   
+            a - -S 10.10.10.11
+            b - -D 10.10.20.21,10.10.20.28,ME
+           
+  Task 6 - Fragmented Packets 
+            4
+           
+  Task 7 - Idle/Zombie Scan 
+            -sI 10.10.5.5
+            
+  Task 8 - Getting More Details 
+            syn-ack
+            
+  Task 9 - Summary 
+            Read Only
