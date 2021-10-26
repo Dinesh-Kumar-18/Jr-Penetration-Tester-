@@ -58,7 +58,7 @@
   Task 11 - OSINT - S3 Buckets 
             v.s3.amazonaws.com
   
-  Task 11 -  Automated Discovery 
+  Task 12 -  Automated Discovery 
             a - /monthly
             b - /development.log
  
@@ -187,3 +187,95 @@
             
   Task 5 - SSRF Practical  
            THM{YOU_WORKED_OUT_THE_SSRF}
+           
+          
+ 8   - Cross-site Scripting
+
+  Task 1 - Room Brief 
+           Cross-Site Scripting
+           
+  Task 2 - XSS Payloads  
+           a - document.cookie
+           b - alert
+  
+  Task 3 - Reflected XSS  
+           parameters
+            
+  Task 4 - Stored XSS   
+           database
+            
+  Task 5 - DOM Based XSS   
+           eval()
+
+  Task 6 - Blind XSS     
+           a - xsshunter
+           b - Stored XSS
+           
+  Task 7 - Perfecting your payload  
+           THM{XSS_MASTER}
+           
+  Task 8 - Practical Example (Blind XSS) 
+           4AB305E55955197693F01D6F8FD2D321
+           
+           
+ 9   -  Command Injection
+
+  Task 1 - Introduction (What is Command Injection?) 
+           Read Only
+           
+  Task 2 - Discovering Command Injection
+           a - $title
+           b - GET
+           c - /id
+  
+  Task 3 - Exploiting Command Injection  
+           a - whoami
+           b - ping
+           c - timeout
+            
+  Task 4 - Remediating Command Injection   
+           sanitisation
+            
+  Task 5 - Practical: Command Injection (Deploy)   
+           a - www-data
+           b - THM{COMMAND_INJECTION_COMPLETE}
+
+  Task 6 - Conclusion   
+           Read Only
+           
+           
+ 
+10  - SQL Injection
+
+  Task 1 - Brief  
+           Read Only
+  
+  Task 2 - What is a Database?  
+           a - DBMS
+           b - Tables
+  
+  Task 3 - What is SQL?  
+           a - SELECT
+           b - UNION
+           c - INSERT
+           
+  Task 4 - What is SQL Injection? 
+           ;
+           
+  Task 5 - In-Band SQLi 
+           THM{SQL_INJECTION_3840}
+           
+  Task 6 - Blind SQLi - Authentication Bypass 
+           THM{SQL_INJECTION_9581}
+           
+  Task 7 - Blind SQLi - Boolean Based 
+           THM{SQL_INJECTION_1093}
+           
+  Task 8 - Blind SQLi - Time Based 
+           THM{SQL_INJECTION_MASTER}
+           
+  Task 9 - Out-of-Band SQLi 
+           DNS
+           
+  Task 10 - Remediation  
+            Prepared Statements
