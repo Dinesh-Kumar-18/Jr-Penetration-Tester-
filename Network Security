@@ -209,3 +209,36 @@
            
   Task 6 - Summary   
             Read Only
+
+
+
+7   - Protocols and Servers
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Telnet    
+            23
+  
+  Task 3 - Hypertext Transfer Protocol (HTTP)   
+            THM{e3eb0a1df437f3f97a64aca5952c8ea0}
+           
+  Task 4 - File Transfer Protocol (FTP)  
+            THM{364db6ad0e3ddfe7bf0b1870fb06fbdf}
+           
+  Task 5 - Simple Mail Transfer Protocol (SMTP)   
+            THM{5b31ddfc0c11d81eba776e983c35e9b5}
+           
+  Task 6 - Post Office Protocol 3 (POP3)  
+            a - +OK 0 0
+            b - 0
+           
+  Task 7 - Internet Message Access Protocol (IMAP)  
+           143
+            
+  Task 8 - Summary 
+            Read Only
+            
+            
+            
+            
