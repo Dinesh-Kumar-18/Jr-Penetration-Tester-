@@ -102,3 +102,43 @@
             
   Task 9 - Summary 
             Read Only
+
+
+
+4  - Nmap Basic Port Scans
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - TCP and UDP Ports    
+            a - DNS
+            b - SSH
+            c - 6
+            d - Open
+  
+  Task 3 - TCP Flags  
+            a - RST
+            b - SYN
+           
+  Task 4 - TCP Connect Scan  
+            a - 110
+            b - POP3
+           
+  Task 5 -  TCP SYN Scan  
+            a - 6667
+            b - IRC
+           
+  Task 6 - UDP Scan  
+            a - 53
+            b - domain
+           
+  Task 7 - Fine-Tuning Scope and Performance  
+            a - -p5000-5500
+            b - --min-parallelism=64
+            c - -T0
+            
+  Task 8 - Using Reverse-DNS Lookup 
+            -R
+            
+  Task 9 - Summary 
+            Read Only
