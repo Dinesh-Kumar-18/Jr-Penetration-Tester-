@@ -1,1 +1,86 @@
+1  - Metasploit: Introduction 
+
+  Task 1 - Introduction to Metasploit  
+            Read Only
+  
+  Task 2 - Main Components of Metasploit   
+            a - Exploit
+            b - Payload
+            c - Singles
+            d - Singles
+  
+  Task 3 - Msfconsole 
+            a - search apache
+            b - todb
+           
+  Task 4 - Working with modules 
+            a - set LPORT 6666
+            b - setg RHOSTS 10.10.19.23
+            c - unset PAYLOAD
+            d - exploit
+           
+  Task 5 - Summary 
+            Read Only
+            
+            
+            
+2 - Metasploit: Exploitation
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Scanning 
+            a - 5
+            b - ACME IT SUPPORT
+            c - webfs/1.21
+            d - leo1234
+  
+  Task 3 - The Metasploit Database 
+            Read Only
+           
+  Task 4 - Vulnerability Scanning  
+            Campbell Murray
+           
+  Task 5 - Exploitation   
+            a - Read Only
+            b - THM-5455554845
+            c - 8ce9a3ebd1647fcc5e04025019f4b875
+           
+  Task 6 - Msfvenom 
+           a - Read Only
+           b - Read Only
+           c - Read Only
+           d - Read Only
+           e - $6$Sy0NNIXw$SJ27WltHI89hwM5UxqVGiXidj94QFRm2Ynp9p9kxgVbjrmtMez9EqXoDWtcQd8rf0tjc77hBFbWxjGmQCTbep0
+           
+  Task 7 - Summary
+            Read Only
+            
+      
+  3   -  Metasploit: Meterpreter
+
+  Task 1 - Introduction to Meterpreter 
+            Read Only
+  
+  Task 2 - Meterpreter Flavors   
+            Read Only
+  
+  Task 3 - Meterpreter Commands  
+            Read Only
+           
+  Task 4 - Post-Exploitation with Meterpreter 
+           Read Only
+           
+  Task 5 - Post-Exploitation Challenge  
+            a - ACME-TEST
+            b - FLASH
+            c - speedster
+            d - 69596c7aa1e8daee17f8e78870e25a5c
+            e - Trustno1
+            f - c:\Program Files (x86)\Windows Multimedia Platform\
+            g - KDSvbsw3849!
+            h - c:\inetpub\wwwroot\
+            i - The Flash is the fastest man alive
+            
+           
 
