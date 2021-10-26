@@ -1,1 +1,216 @@
+1 - Burp Suite: The Basics
 
+  Task 1 - (Introduction)  Outline 
+            Read Only
+  
+  Task 2 - (Getting Started)  What is Burp Suite?  
+            a - Burp Suite Community
+            b - Burp Suite Enterprise
+            c - Mobile
+  
+  Task 3 - (Getting Started)  Features of Burp Community 
+            a - Proxy
+            b - Intruder
+           
+  Task 4 - (Getting Started)  Installation 
+            Read Only
+           
+  Task 5 - (Getting Started)  The Dashboard  
+            Read Only
+           
+  Task 6 - (Getting Started)  Navigation 
+            Read Only
+           
+  Task 7 - (Getting Started)   Options 
+            a - Read Only
+            b - Sessions
+            c - Misc
+            d - Hotkeys
+            e - Aye
+            f - Read Only
+           
+  Task 8 - (Proxy) Introduction to the Burp Proxy 
+            a - Forward
+            b - Ctrl+F
+           
+  Task 9 - (Proxy) Connecting through the Proxy (FoxyProxy) 
+            a - Response to this request
+            b - Read Only
+           
+  Task 10 - (Proxy)  Proxying HTTPS 
+             Read Only
+            
+  Task 11 - (Proxy)  The Burp Suite Browser 
+             Read Only
+  
+  Task 12 - (Proxy)  Scoping and Targeting 
+             Read Only
+            
+  Task 13 - (Proxy)  Site Map and Issue Definitions
+             a - THM{NmNlZTliNGE1MWU1ZTQzMzgzNmFiNWVk}
+             b - Low
+             
+  Task 14 - (Practical)  Example Attack
+             a - Read Only
+             b - Read Only
+             c - Read Only
+             d - Read Only
+             e - Read Only
+             f - Read Only
+             
+  Task 15 - (Conclusion)  Room Conclusion 
+             Read Only
+             
+             
+2 - Burp Suite: Repeater
+
+  Task 1 - (Introduction)  Outline 
+            Read Only
+  
+  Task 2 - (Repeater)   What is Repeater?   
+            Read Only
+  
+  Task 3 - (Repeater)   Basic Usage 
+            Read Only
+           
+  Task 4 - (Repeater)   Views 
+            a - Read Only
+            b - Render
+           
+  Task 5 - (Repeater)   Inspector  
+            Read Only
+           
+  Task 6 - (Practical)  Example 
+            a - Read Only
+            b - Read Only
+            c - THM{Yzg2MWI2ZDhlYzdlNGFiZTUzZTIzMzVi}
+           
+  Task 7 - (Practical)  Challenge  
+            a - Read Only
+            b - THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzhl}
+          
+           
+  Task 8 - (Extra Mile) SQLi with Repeater 
+            a - Read Only
+            b - Read Only
+            c - Read Only
+            d - Read Only
+            e - Read Only
+            f - Read Only
+            g - THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}
+           
+  Task 9 - (Conclusion)  Room Conclusion 
+            Read Only
+
+
+
+4 - Burp Suite: Other Modules
+
+  Task 1 - (Introduction) Outline 
+            Read Only
+  
+  Task 2 - (Decoder)  Overview 
+            Read Only
+  
+  Task 3 - (Decoder)  Encoding/Decoding  
+            a - TGV0J3MgU3RhcnQgU2ltcGxl
+            b - Next: Decoding
+            c - 47
+            d - 24034214a720270024142d541357471232250253552c1162d1206c
+           
+  Task 4 - (Decoder)  Hashing 
+            a - 6b72350e719a8ef5af560830164b13596cb582757437e21d1879502072238abe
+            b - TcV4QGZZN7y7lwYFRMMoeA==
+            c - key3
+            
+  Task 5 - (Comparer)  Overview    
+            Read Only
+           
+  Task 6 - (Comparer)  Example 
+            a - Read Only
+            b - Read Only
+            c - Read Only
+            d - Read Only
+            e - 9
+           
+  Task 7 - (Sequencer)  Overview 
+            Read Only
+           
+  Task 8 - (Sequencer)  Live Capture  
+            a - Read Only
+            b - Read Only
+           
+  Task 9 - (Sequencer)  Analysis 
+            Read Only
+           
+  Task 10 - (Conclusion)  Room Conclusion  
+             a - Read Only
+             
+            
+  Task 11 - (Practical)  Challenge 
+             a - Sniper
+             b - Read Only
+             c - THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}
+  
+  Task 12 - (Extra Mile)  CSRF Token Bypass  
+             a - Read Only
+             b - Read Only
+             c - Read Only
+             d - Read Only
+             e - Read Only
+             f - Read Only
+             g - Read Only
+             h - Read Only
+             i - Read Only
+             j - Read Only
+            
+  Task 13 - (Conclusion)  Conclusion 
+             a - Read Only
+             b - Read Only
+             
+             
+  3 - Burp Suite: Intruder
+
+  Task 1 - (Introduction) Room Outline 
+            Read Only
+  
+  Task 2 - (Intruder)  What is Intruder? 
+            a - Attack Results
+            b - Positions
+  
+  Task 3 - (Intruder)  Positions 
+            a - Read Only
+            b - Read Only
+            c - Read Only
+            d - Read Only
+           
+  Task 4 - (Attack Types)  Introduction 
+            Read Only
+           
+  Task 5 - (Attack Types)  Sniper   
+            a - 300
+            b - 1
+            c - Aye
+           
+  Task 6 - (Attack Types)  Battering Ram 
+            username=admin&password=admin
+           
+  Task 7 - (Attack Types)  Pitchfork 
+            20
+           
+  Task 8 - (Attack Types)  Cluster Bomb  
+            6000
+           
+  Task 9 - (Intruder)  Payloads 
+            a - Simple List
+            b - Add suffix
+           
+  Task 10 - (Practical)  Example 
+             a - Read Only
+             b - Read Only
+             c - Read Only
+             d - Read Only
+             e - Read Only
+             f - Read Only
+             g - Read Only
+             h - Read Only
