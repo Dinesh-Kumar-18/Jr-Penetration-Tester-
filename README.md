@@ -1,6 +1,6 @@
-# Jr-Penetration-Tester-
-a complete walkthrough  or cheat sheet for jr penetration testing path which is given by try hack me 
-to complete the entire course , one needs to have subscription.enjoy!
+# Jr-Penetration-Tester-TryHackMe
+A complete walkthrough or cheat sheet for jr penetration testing path which is given by try hack me.
+To complete the entire course , one needs to have subscription.enjoy!
 
 
 https://tryhackme.com/room/pentestingfundamentals
