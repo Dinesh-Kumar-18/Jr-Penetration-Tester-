@@ -1,1 +1,64 @@
+1  - Walking An Application 
 
+  Task 1 - Walking An Application   
+           Read only
+           
+  Task 2 - Exploring The Website 
+           Read only
+  
+  Task 3 - Viewing The Page Source 
+            a - THM{HTML_COMMENTS_ARE_DANGEROUS}
+            b - THM{NOT_A_SECRET_ANYMORE}
+            c - THM{INVALID_DIRECTORY_PERMISSIONS}
+            d - THM{KEEP_YOUR_SOFTWARE_UPDATED}
+            
+  Task 4 - Developer Tools - Inspector 
+           THM{NOT_SO_HIDDEN}
+            
+  Task 5 - Developer Tools - Debugger 
+           THM{CATCH_ME_IF_YOU_CAN}
+
+  Task 6 - Developer Tools - Network  
+           THM{GOT_AJAX_FLAG}
+
+2 - Content Discovery
+
+  Task 1 - What Is Content Discovery? 
+           a - Manually
+           b - Automated
+           c - OSINT
+  
+  Task 2 - Manual Discovery - Robots.txt 
+           /staff-portal
+  
+  Task 3 - Manual Discovery - Favicon 
+           cgiirc
+           
+  Task 4 - Manual Discovery - Sitemap.xml 
+           a/s3cr3t-area
+           
+  Task 5 - Manual Discovery - HTTP Headers 
+           THM{HEADER_FLAG}
+           
+  Task 6 - Manual Discovery - Framework Stack
+           THM{CHANGE_DEFAULT_CREDENTIALS}
+           
+  Task 7 - OSINT - Google Hacking / Dorking 
+           site:
+           
+  Task 8 - OSINT - Wappalyzer 
+           Wappalyzer
+           
+  Task 9 - OSINT - Wayback Machine 
+           https://archive.org/web/
+           
+  Task 10 - OSINT - GitHub  
+            version control system
+            
+  Task 11 - OSINT - S3 Buckets 
+            v.s3.amazonaws.com
+  
+  Task 11 -  Automated Discovery 
+            a - /monthly
+            b - /development.log
+            
