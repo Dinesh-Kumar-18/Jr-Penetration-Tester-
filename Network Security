@@ -1,2 +1,28 @@
-1  -  Passive Reconnaissance
-      Task 1
+1  - Passive Reconnaissance
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Passive Versus Active Recon   
+            a - P
+            b - A
+            c - A
+  
+  Task 3 - Whois 
+            a - 20180705
+            b - namecheap.com
+            c - cloudflare.com
+           
+  Task 4 - nslookup and dig  
+            THM{a5b83929888ed36acb0272971e438d78}
+           
+  Task 5 - DNSDumpster  
+            a - Germany
+            b - 8080
+            c - 8888
+           
+  Task 6 - Shodan.io  
+            Read Only
+           
+  Task 7 - Summary 
+            Read Only
