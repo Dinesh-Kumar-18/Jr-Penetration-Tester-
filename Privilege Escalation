@@ -1,1 +1,97 @@
+1  -  Linux PrivEsc
 
+  Task 1 -  Introduction 
+            Read Only
+  
+  Task 2 - What is Privilege Escalation? 
+            Read Only
+  
+  Task 3 - Enumeration 
+            a - wade7363
+            b - 3.13.0-24-generic
+            c - Ubuntu 14.04 LTS
+            d - 2.7.6
+            e - CVE-2015-1328
+           
+  Task 4 - Automated Enumeration Tools 
+            Read Only
+           
+  Task 5 - Privilege Escalation: Kernel Exploits  
+            a - Read Only
+            b - THM-28392872729920
+           
+  Task 6 - Privilege Escalation: Sudo  
+            a - 3
+            b - THM-402028394
+            c - sudo nmap --interactive
+            d - $6$2.sUUDsOLIpXKxcr$eImtgFExyr2ls4jsghdD3DHLHHP9X50Iv.jNmwo/BJpphrPRJWjelWEz2HH.joV14aDEwW1c3CahzB1uaqeLR1
+           
+  Task 7 - Privilege Escalation: SUID 
+            a - gerryconway
+            b - Password1
+            c - THM-3847834
+           
+  Task 8 - Privilege Escalation: Capabilities 
+            a - Read Only
+            b - 6
+            c - view
+            d - THM-9349843
+           
+  Task 9 - Privilege Escalation: Cron Jobs 
+            a - 4
+            b - THM-383000283
+            c - 123456
+           
+  Task 10 - Privilege Escalation: PATH  
+             a - /home/murdoch
+             b - Read Only
+             c - THM-736628929
+            
+  Task 11 - Privilege Escalation: NFS 
+             a - 3
+             b - 3
+             c - Read Only
+             d - THM-89384012 
+  
+  Task 12 - Capstone Challenge 
+             a - THM-42828719920544
+             b - THM-168824782390238
+             
+ 
+ 2  -   Windows Privesc
+
+  Task 1 -  Introduction 
+            Read Only
+  
+  Task 2 - Information Gathering  
+            a - Read Only
+            b - THM-17213
+            c - 10.0.17763 N/A Build 17763
+            d - 6/10/2020
+            e - STOPPED
+  
+  Task 3 - Tools of the trade 
+            Read Only
+           
+  Task 4 - Vulnerable Software 
+            a - 2.0.1.6782
+            b - Unquoted Service Path
+            c - 9.0.1.1049
+           
+  Task 5 - DLL Hijacking  
+            a - Read Only
+            b - Read Only
+            c - THM-8377492093
+           
+  Task 6 - Unquoted Service Path   
+            a - C:\Program Files\Unquoted Path Service\Common Files\unquotedpathservice.exe
+            b - C:\Program Files\Unquoted Path Service\
+            c - common.exe
+            d - THM-636729273483
+           
+  Task 7 - Token Impersonation 
+            Read Only
+           
+  Task 8 - Quick Wins 
+            Read Only
+             
