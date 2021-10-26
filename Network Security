@@ -242,3 +242,48 @@
             
             
             
+8    - Protocols and Servers 2
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Sniffing Attack    
+            a - port 23
+            b - imap
+  
+  Task 3 - Man-in-the-Middle (MITM) Attack    
+            a - 3
+            b - 3
+           
+  Task 4 - Transport Layer Security (TLS)  
+            DoT
+           
+  Task 5 - Secure Shell (SSH)   
+            a - 5.4.0-84-generic
+            b - 415
+           
+  Task 6 - Password Attack   
+            butterfly
+            
+  Task 7 - Summary 
+            Read Only
+            
+            
+            
+9  -  Net Sec Challenge          
+
+ Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Challenge Questions    
+            a - 8080
+            b - 10021
+            c - 6
+            d - THM{web_server_25352}
+            e - THM{946219583339}
+            f - vsftpd 3.0.3
+            g - THM{321452667098}
+            h - THM{f7443f99}
+  
+  Task 3 - Summary    
+            Read Only
