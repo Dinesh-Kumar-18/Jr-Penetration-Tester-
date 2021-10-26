@@ -26,3 +26,35 @@
            
   Task 7 - Summary 
             Read Only
+
+
+
+2  - Active Reconnaissance
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Web Browser   
+            a - 8
+  
+  Task 3 -  Ping 
+            a - -s
+            b - 8
+            c - Y
+            d - 10
+           
+  Task 4 - Traceroute  
+            a - 172.67.69.208
+            b - 104.26.11.229
+            c - 26
+            d - Read Only
+           
+  Task 5 - Telnet  
+            a - Apache
+            b - 2.4.10
+           
+  Task 6 - Netcat   
+            0.17
+           
+  Task 7 - Putting It All Together 
+            Read Only
