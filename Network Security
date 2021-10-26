@@ -35,7 +35,7 @@
             Read Only
   
   Task 2 - Web Browser   
-            a - 8
+            8
   
   Task 3 -  Ping 
             a - -s
@@ -181,4 +181,31 @@
             syn-ack
             
   Task 9 - Summary 
+            Read Only
+
+
+
+6   -  Nmap Post Port Scans
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Service Detection   
+            a - Dovecot imapd
+            b - rpcbind
+  
+  Task 3 - OS Detection and Traceroute 
+            Linux
+           
+  Task 4 - Nmap Scripting Engine (NSE) 
+            a - disallowed entries
+            b - http-vuln-cve2015-1635
+            c - 9.9.5-9+deb8u19-Debian
+            d - diffie-hellman-group14-sha1
+           
+  Task 5 - Saving the Output 
+            a - 3
+            b - 172.17.20.147
+           
+  Task 6 - Summary   
             Read Only
