@@ -102,71 +102,6 @@
   Task 9 - (Conclusion)  Room Conclusion 
             Read Only
 
-
-
-4 - Burp Suite: Other Modules
-
-  Task 1 - (Introduction) Outline 
-            Read Only
-  
-  Task 2 - (Decoder)  Overview 
-            Read Only
-  
-  Task 3 - (Decoder)  Encoding/Decoding  
-            a - TGV0J3MgU3RhcnQgU2ltcGxl
-            b - Next: Decoding
-            c - 47
-            d - 24034214a720270024142d541357471232250253552c1162d1206c
-           
-  Task 4 - (Decoder)  Hashing 
-            a - 6b72350e719a8ef5af560830164b13596cb582757437e21d1879502072238abe
-            b - TcV4QGZZN7y7lwYFRMMoeA==
-            c - key3
-            
-  Task 5 - (Comparer)  Overview    
-            Read Only
-           
-  Task 6 - (Comparer)  Example 
-            a - Read Only
-            b - Read Only
-            c - Read Only
-            d - Read Only
-            e - 9
-           
-  Task 7 - (Sequencer)  Overview 
-            Read Only
-           
-  Task 8 - (Sequencer)  Live Capture  
-            a - Read Only
-            b - Read Only
-           
-  Task 9 - (Sequencer)  Analysis 
-            Read Only
-           
-  Task 10 - (Conclusion)  Room Conclusion  
-             a - Read Only
-             
-            
-  Task 11 - (Practical)  Challenge 
-             a - Sniper
-             b - Read Only
-             c - THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}
-  
-  Task 12 - (Extra Mile)  CSRF Token Bypass  
-             a - Read Only
-             b - Read Only
-             c - Read Only
-             d - Read Only
-             e - Read Only
-             f - Read Only
-             g - Read Only
-             h - Read Only
-             i - Read Only
-             j - Read Only
-            
-  Task 13 - (Conclusion)  Conclusion 
-             a - Read Only
-             b - Read Only
              
              
   3 - Burp Suite: Intruder
@@ -214,3 +149,72 @@
              f - Read Only
              g - Read Only
              h - Read Only
+             i - Read Only
+             
+  Task 11 - (Practical)  Challenge 
+             a - Sniper
+             b - Read Only
+             c - THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}
+  
+  Task 12 - (Extra Mile)  CSRF Token Bypass  
+             a - Read Only
+             b - Read Only
+             c - Read Only
+             d - Read Only
+             e - Read Only
+             f - Read Only
+             g - Read Only
+             h - Read Only
+             i - Read Only
+             j - Read Only
+            
+  Task 13 - (Conclusion)  Conclusion 
+             a - Read Only
+             b - Read Only
+
+
+
+4 - Burp Suite: Other Modules
+
+  Task 1 - (Introduction) Outline 
+            Read Only
+  
+  Task 2 - (Decoder)  Overview 
+            Read Only
+  
+  Task 3 - (Decoder)  Encoding/Decoding  
+            a - TGV0J3MgU3RhcnQgU2ltcGxl
+            b - Next: Decoding
+            c - 47
+            d - 24034214a720270024142d541357471232250253552c1162d1206c
+           
+  Task 4 - (Decoder)  Hashing 
+            a - 6b72350e719a8ef5af560830164b13596cb582757437e21d1879502072238abe
+            b - TcV4QGZZN7y7lwYFRMMoeA==
+            c - key3
+            
+  Task 5 - (Comparer)  Overview    
+            Read Only
+           
+  Task 6 - (Comparer)  Example 
+            a - Read Only
+            b - Read Only
+            c - Read Only
+            d - Read Only
+            e - 9
+           
+  Task 7 - (Sequencer)  Overview 
+            Read Only
+           
+  Task 8 - (Sequencer)  Live Capture  
+            a - Read Only
+            b - Read Only
+           
+  Task 9 - (Sequencer)  Analysis 
+            Read Only
+           
+  Task 10 - (Conclusion)  Room Conclusion  
+             a - Read Only
+             
+            
+  
