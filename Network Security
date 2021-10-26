@@ -58,3 +58,47 @@
            
   Task 7 - Putting It All Together 
             Read Only
+
+
+
+3  - Nmap Live Host Discovery
+
+  Task 1 - Introduction 
+            Read Only
+  
+  Task 2 - Subnetworks    
+            a - 4
+            b - N
+            c - 4
+            d - Y
+  
+  Task 3 - Enumerating Targets  
+            a - 10.10.12.8
+            b - 6400
+           
+  Task 4 - Discovering Live Hosts  
+            a - ARP Request
+            b - ARP Response
+            c - 1
+            d - router
+            e - computer5
+            f - N
+           
+  Task 5 -  Nmap Host Discovery Using ARP  
+            3
+           
+  Task 6 - Nmap Host Discovery Using ICMP 
+            a - -PP
+            b - -PM
+            c - -PE
+           
+  Task 7 - Nmap Host Discovery Using TCP and UDP 
+            a - TCP SYN Ping
+            b - TCP ACK Ping
+            c - -PS23
+            
+  Task 8 - Using Reverse-DNS Lookup 
+            -R
+            
+  Task 9 - Summary 
+            Read Only
