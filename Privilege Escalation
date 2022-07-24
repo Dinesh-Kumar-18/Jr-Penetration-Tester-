@@ -95,3 +95,38 @@
   Task 8 - Quick Wins 
             Read Only
              
+2  -   Windows Privesc (2022)
+ 
+  Task 1 - Introduction
+         completed    
+
+  task 2 - Windows Privilege Escalation
+  a - administrator
+  b - aye
+  
+  Task 3 - Harvesting Passwords from Usual Spots
+  a - ZuperCkretPa5z
+  b - 098n0x35skjD3
+  c - THM{WHAT_IS_MY_PASSWORD}
+  d - CoolPass2021
+
+  Task 4 - Other Quick Wins
+   a - THM{TASK_COMPLETED}
+
+   Task 5 - Abusing Service Misconfigurations
+   a - THM{AT_YOUR_SERVICE}
+   b - THM{QUOTES_EVERYWHERE}
+   c - THM{INSECURE_SVC_CONFIG}
+
+  Task 6 - Abusing dangerous privileges
+   a - THM{SELFFLAGPRIVILEGE}
+
+  Task 7 - Abusing vulnerable software
+   a - THM{EX_DLL_PORXY_4ME}
+
+  Task 8 - Tools of the Trade
+           completed
+
+  Task 9 - Conclusion
+           completed
+
